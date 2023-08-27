@@ -4,7 +4,7 @@
 !-----------------------------------------------!
 
 program example
-    use basic_function
+    use basic_function ! from inv.o file
     implicit none
     real(kind = 8), allocatable :: arr1(:,:)
     real(kind = 8), allocatable :: inv_arr1(:,:)
