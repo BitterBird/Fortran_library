@@ -12,13 +12,13 @@ program example
 
 
     
-    print*,'detirmenate of matrixx :-> arr1 ::',det(arr1)
+    print*,'detirmenate of matrixx :-> arr1 ::',det(arr1) ! determinate of materix...
     print*,
     print*,'...............................................................'
     print*,'inversion of matrix :: arr1 --> inv_arr1'
     print*,'...............................................................'
 
-    inv_arr1 = inv(arr1)
+    inv_arr1 = inv(arr1)                                 ! inverse matrix ...
     
     do i=1, size(inv_arr1(:,1))
         print*,inv_arr1(i,:)
