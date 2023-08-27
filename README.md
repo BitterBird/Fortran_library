@@ -1,11 +1,15 @@
-# Fortran_library
-Fortarn 90 library for basic function
+# Fortarn 90 Library for Basic Functions
 
-......... in Linux or apple terminal ::
-'gfortran -o your_file_name your_file_name.f90 inv.o'
+Welcome to the Fortarn 90 Library for Basic Functions! This library provides a collection of basic functions implemented in Fortran 90.
 
-........ in case if you face some error ::
-copy all error and past in messege
-give to in pull requests
+## Getting Started
+
+To use this library, follow the steps below:
+
+1. **Clone the Repository**: Start by cloning this repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/fortran-library.git
+
+gfortran -o your_executable_name your_file_name.f90 inv.o
 
 https://github.com/BitterBird/Fortran_library
