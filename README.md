@@ -1,6 +1,6 @@
 # Fortarn 90 Library for Basic Functions
 
-Welcome to the Fortarn 90 Library for Basic Functions! This library provides a collection of basic functions implemented in Fortran 90.
+🚀 Welcome to the Fortarn 90 Library for Basic Functions! This library provides a collection of basic functions implemented in Fortran 90.
 
 ## Getting Started
 
