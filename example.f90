@@ -1,3 +1,8 @@
+!-----------------------------------------------!
+!   EXAMPLE OF HOW TO FIND DETERMENATE OF       !
+!           MATERIX AND INVERSE                 !
+!-----------------------------------------------!
+
 program example
     use basic_function
     implicit none
